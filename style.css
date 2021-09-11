@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Palette+Mosaic&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200;300&family=Oswald:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&family=Oswald:wght@200&display=swap');
+img {
+  width: 500px;
+}
+body {
+  text-align: center;
+  font-family: 'Inconsolata', monospace;
+
+  color: Chocolate;
+  background: Beige;
+  font-size: 25px;
+}
+#my_name {
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+}
+#lists {
+  text-align: left;
+  font-family: 'Inconsolata', monospace;
+}
+#discord {
+  width: 25px;
+}
+#footer {
+  font-size: 10px;
+}
